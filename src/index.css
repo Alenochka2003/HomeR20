@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .App {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    flex-direction: column;
+   color: rgb(10, 33, 33);
+   background-color: rgba(221, 20, 20, 0.42);
+   align-items: center;
+   border-radius: 10px;
+
+  }
+
+  h1{
+    
+    text-align: center;
+  }
